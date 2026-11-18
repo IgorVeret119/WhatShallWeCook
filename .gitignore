@@ -1,0 +1,43 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.venv-translate/
+.translation-deps/
+
+# Local tests
+/tests/
+
+# Dataset, local databases and translation output
+/recipes.csv
+/recipes.csv.part
+/recipes.source.json
+/data/**/*.db
+/data/**/*.db-*
+/data/**/*.sqlite*
+/data/**/*.csv
+/data/**/*.part
+/data/models/
+/data/*.json
+!/data/nutrition_foods.json
+!/data/manual_ru.json
+!/data/manual_ru_*.json
+!/data/photo_additions.json
+
+# Editor, system and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+.env
+.env.*
+!.env.example

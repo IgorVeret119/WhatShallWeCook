@@ -1,0 +1,22 @@
+[
+  {
+    "recipe_id": 48,
+    "source_name": "Boston Cream Pie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Boston_cream_pie.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Boston_cream_pie.jpg",
+    "author": "GorillaWarfare",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "kind": "illustration"
+  },
+  {
+    "recipe_id": 46,
+    "source_name": "A Jad - Cucumber Pickle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Thai_spicy_vinegared_cucumber_relish.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Thai_spicy_vinegared_cucumber_relish.jpg",
+    "author": "Susan Slater",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "kind": "illustration"
+  }
+]

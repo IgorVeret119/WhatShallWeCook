@@ -1,0 +1,700 @@
+{
+  "chicken": {
+    "name": "Куриная грудка, готовая",
+    "name_en": "Cooked chicken breast",
+    "group": "protein",
+    "calories": 165.0,
+    "protein": 31.02,
+    "fat": 3.57,
+    "carbs": 0.0,
+    "max_grams": 200,
+    "step": 5,
+    "ndb": "05064",
+    "tags": "chicken poultry meat курица курицы курицей мясо птица",
+    "aliases": [
+      "cooked chicken breast",
+      "cooked chicken"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "CHICKEN,BROILERS OR FRYERS,BREAST,MEAT ONLY,CKD,RSTD"
+  },
+  "yogurt": {
+    "name": "Греческий йогурт без добавок, 0%",
+    "name_en": "Plain Greek yogurt, 0% fat",
+    "group": "protein",
+    "calories": 59.0,
+    "protein": 10.19,
+    "fat": 0.39,
+    "carbs": 3.6,
+    "max_grams": 300,
+    "step": 5,
+    "ndb": "01256",
+    "tags": "yogurt milk dairy lactose йогурт молоко молочные молочки лактоза",
+    "aliases": [
+      "plain greek yogurt",
+      "greek yogurt"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "YOGURT,GREEK,PLN,NONFAT"
+  },
+  "rice": {
+    "name": "Рис белый, варёный",
+    "name_en": "Cooked white rice",
+    "group": "carbs",
+    "calories": 130.0,
+    "protein": 2.69,
+    "fat": 0.28,
+    "carbs": 28.17,
+    "max_grams": 300,
+    "step": 5,
+    "ndb": "20045",
+    "tags": "rice рис риса рисом",
+    "aliases": [
+      "cooked rice",
+      "cooked white rice",
+      "вареный рис"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "RICE,WHITE,LONG-GRAIN,REG,ENR,CKD"
+  },
+  "banana": {
+    "name": "Банан без кожуры",
+    "name_en": "Peeled banana",
+    "group": "carbs",
+    "calories": 89.0,
+    "protein": 1.09,
+    "fat": 0.33,
+    "carbs": 22.84,
+    "max_grams": 200,
+    "step": 5,
+    "ndb": "09040",
+    "tags": "banana bananas банан банана бананы",
+    "aliases": [
+      "banana",
+      "bananas",
+      "банан"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "BANANAS,RAW"
+  },
+  "oil": {
+    "name": "Оливковое масло",
+    "name_en": "Olive oil",
+    "group": "fat",
+    "calories": 884.0,
+    "protein": 0.0,
+    "fat": 100.0,
+    "carbs": 0.0,
+    "max_grams": 30,
+    "step": 1,
+    "ndb": "04053",
+    "tags": "olive oil vegetable fat масло оливковое масла",
+    "aliases": [
+      "olive oil",
+      "оливковое масло"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "OIL,OLIVE,SALAD OR COOKING"
+  },
+  "almonds": {
+    "name": "Миндаль",
+    "name_en": "Almonds",
+    "group": "fat",
+    "calories": 579.0,
+    "protein": 21.15,
+    "fat": 49.93,
+    "carbs": 21.55,
+    "max_grams": 40,
+    "step": 1,
+    "ndb": "12061",
+    "tags": "almond almonds nut nuts миндаль орехи орехов",
+    "aliases": [
+      "almonds",
+      "almond",
+      "миндаль"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "ALMONDS"
+  },
+  "turkey": {
+    "name": "Грудка индейки, готовая",
+    "name_en": "Roasted turkey breast",
+    "group": "protein",
+    "calories": 147.0,
+    "protein": 30.13,
+    "fat": 2.08,
+    "carbs": 0.0,
+    "max_grams": 200,
+    "step": 5,
+    "ndb": "05220",
+    "tags": "turkey poultry meat индейка индейки мясо птица",
+    "aliases": [
+      "cooked turkey breast"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "TURKEY,BREAST,FROM WHL BIRD,MEAT ONLY,RSTD"
+  },
+  "tuna": {
+    "name": "Тунец в воде, без жидкости",
+    "name_en": "Canned tuna in water, drained",
+    "group": "protein",
+    "calories": 86.0,
+    "protein": 19.44,
+    "fat": 0.96,
+    "carbs": 0.0,
+    "max_grams": 200,
+    "step": 5,
+    "ndb": "15121",
+    "tags": "tuna fish seafood тунец рыба рыбы морепродукты",
+    "aliases": [
+      "canned tuna",
+      "tuna in water"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "FISH,TUNA,LT,CND IN H2O,DRND SOL"
+  },
+  "egg": {
+    "name": "Яйцо варёное",
+    "name_en": "Hard-boiled egg",
+    "group": "protein",
+    "calories": 155.0,
+    "protein": 12.58,
+    "fat": 10.61,
+    "carbs": 1.12,
+    "max_grams": 150,
+    "step": 5,
+    "ndb": "01129",
+    "tags": "egg eggs яйцо яйца яиц",
+    "aliases": [
+      "hard-boiled eggs",
+      "boiled egg"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "EGG,WHL,CKD,HARD-BOILED"
+  },
+  "tofu": {
+    "name": "Тофу твёрдый",
+    "name_en": "Firm tofu",
+    "group": "protein",
+    "calories": 144.0,
+    "protein": 17.27,
+    "fat": 8.72,
+    "carbs": 2.78,
+    "max_grams": 250,
+    "step": 5,
+    "ndb": "16426",
+    "tags": "tofu soy soya soybean тофу соя соевый",
+    "aliases": [
+      "firm tofu",
+      "tofu"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "TOFU,RAW,FIRM,PREP W/CA SULFATE"
+  },
+  "cottage": {
+    "name": "Творог зернёный, 1%",
+    "name_en": "Cottage cheese, 1% fat",
+    "group": "protein",
+    "calories": 72.0,
+    "protein": 12.39,
+    "fat": 1.02,
+    "carbs": 2.72,
+    "max_grams": 250,
+    "step": 5,
+    "ndb": "01016",
+    "tags": "cottage cheese milk dairy lactose творог сыр молоко молочные лактоза",
+    "aliases": [
+      "cottage cheese"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "CHEESE,COTTAGE,LOWFAT,1% MILKFAT"
+  },
+  "lentils": {
+    "name": "Чечевица варёная",
+    "name_en": "Cooked lentils",
+    "group": "protein",
+    "calories": 116.0,
+    "protein": 9.02,
+    "fat": 0.38,
+    "carbs": 20.13,
+    "max_grams": 250,
+    "step": 5,
+    "ndb": "16070",
+    "tags": "lentil lentils legume legumes чечевица бобовые",
+    "aliases": [
+      "cooked lentils"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "LENTILS,MATURE SEEDS,CKD,BLD,WO/SALT"
+  },
+  "chickpeas": {
+    "name": "Нут варёный",
+    "name_en": "Cooked chickpeas",
+    "group": "protein",
+    "calories": 164.0,
+    "protein": 8.86,
+    "fat": 2.59,
+    "carbs": 27.42,
+    "max_grams": 250,
+    "step": 5,
+    "ndb": "16057",
+    "tags": "chickpea chickpeas garbanzo legume legumes нут бобовые",
+    "aliases": [
+      "cooked chickpeas",
+      "cooked garbanzo beans"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "CHICKPEAS ,MATURE SEEDS,CKD,BLD,WO/SALT"
+  },
+  "shrimp": {
+    "name": "Креветки, готовые",
+    "name_en": "Cooked shrimp",
+    "group": "protein",
+    "calories": 119.0,
+    "protein": 22.78,
+    "fat": 1.7,
+    "carbs": 1.52,
+    "max_grams": 200,
+    "step": 5,
+    "ndb": "15151",
+    "tags": "shrimp prawns shellfish seafood креветки морепродукты",
+    "aliases": [
+      "cooked shrimp"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "CRUSTACEANS,SHRIMP,MXD SP,CKD,MST HT (MAYBE PREVIOUSLY FRZ)"
+  },
+  "buckwheat": {
+    "name": "Гречка варёная",
+    "name_en": "Cooked buckwheat",
+    "group": "carbs",
+    "calories": 92.0,
+    "protein": 3.38,
+    "fat": 0.62,
+    "carbs": 19.94,
+    "max_grams": 300,
+    "step": 5,
+    "ndb": "20010",
+    "tags": "buckwheat гречка гречневая крупа",
+    "aliases": [
+      "cooked buckwheat"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "BUCKWHEAT GROATS,RSTD,CKD"
+  },
+  "quinoa": {
+    "name": "Киноа варёная",
+    "name_en": "Cooked quinoa",
+    "group": "carbs",
+    "calories": 120.0,
+    "protein": 4.4,
+    "fat": 1.92,
+    "carbs": 21.3,
+    "max_grams": 300,
+    "step": 5,
+    "ndb": "20137",
+    "tags": "quinoa киноа",
+    "aliases": [
+      "cooked quinoa"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "QUINOA,CKD"
+  },
+  "potato": {
+    "name": "Картофель отварной",
+    "name_en": "Boiled potato",
+    "group": "carbs",
+    "calories": 86.0,
+    "protein": 1.71,
+    "fat": 0.1,
+    "carbs": 20.01,
+    "max_grams": 300,
+    "step": 5,
+    "ndb": "11367",
+    "tags": "potato potatoes картофель картошка",
+    "aliases": [
+      "boiled potatoes",
+      "boiled potato"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "POTATOES,BLD,CKD WO/ SKN,FLESH,WO/ SALT"
+  },
+  "pasta": {
+    "name": "Макароны варёные",
+    "name_en": "Cooked pasta",
+    "group": "carbs",
+    "calories": 158.0,
+    "protein": 5.8,
+    "fat": 0.93,
+    "carbs": 30.86,
+    "max_grams": 250,
+    "step": 5,
+    "ndb": "20121",
+    "tags": "pasta spaghetti wheat gluten макароны паста пшеница глютен",
+    "aliases": [
+      "cooked pasta",
+      "cooked spaghetti"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "PASTA,CKD,ENR,WO/ ADDED SALT"
+  },
+  "oatmeal": {
+    "name": "Овсяная каша на воде",
+    "name_en": "Oatmeal cooked in water",
+    "group": "carbs",
+    "calories": 71.0,
+    "protein": 2.54,
+    "fat": 1.52,
+    "carbs": 12.0,
+    "max_grams": 300,
+    "step": 5,
+    "ndb": "08121",
+    "tags": "oat oats oatmeal овес овсянка овсяная",
+    "aliases": [
+      "cooked oatmeal"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "CEREALS,OATS,REG & QUICK,UNENR,CKD W/ H2O,WO/ SALT"
+  },
+  "apple": {
+    "name": "Яблоко с кожурой",
+    "name_en": "Apple with skin",
+    "group": "carbs",
+    "calories": 52.0,
+    "protein": 0.26,
+    "fat": 0.17,
+    "carbs": 13.81,
+    "max_grams": 250,
+    "step": 5,
+    "ndb": "09003",
+    "tags": "apple apples яблоко яблоки",
+    "aliases": [
+      "apple",
+      "apples"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "APPLES,RAW,WITH SKIN"
+  },
+  "avocado": {
+    "name": "Авокадо",
+    "name_en": "Avocado",
+    "group": "fat",
+    "calories": 160.0,
+    "protein": 2.0,
+    "fat": 14.66,
+    "carbs": 8.53,
+    "max_grams": 150,
+    "step": 1,
+    "ndb": "09037",
+    "tags": "avocado авокадо",
+    "aliases": [
+      "avocado",
+      "avocados"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "AVOCADOS,RAW,ALL COMM VAR"
+  },
+  "walnuts": {
+    "name": "Грецкие орехи",
+    "name_en": "Walnuts",
+    "group": "fat",
+    "calories": 654.0,
+    "protein": 15.23,
+    "fat": 65.21,
+    "carbs": 13.71,
+    "max_grams": 40,
+    "step": 1,
+    "ndb": "12155",
+    "tags": "walnut walnuts nut nuts грецкий грецкие орех орехи",
+    "aliases": [
+      "walnuts",
+      "walnut"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "WALNUTS,ENGLISH"
+  },
+  "sunflower": {
+    "name": "Семечки подсолнечника",
+    "name_en": "Sunflower kernels",
+    "group": "fat",
+    "calories": 584.0,
+    "protein": 20.78,
+    "fat": 51.46,
+    "carbs": 20.0,
+    "max_grams": 40,
+    "step": 1,
+    "ndb": "12036",
+    "tags": "sunflower seed seeds семечки подсолнечник семена",
+    "aliases": [
+      "sunflower seeds",
+      "sunflower kernels"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "SUNFLOWER SD KRNLS,DRIED"
+  },
+  "peanut_butter": {
+    "name": "Арахисовая паста",
+    "name_en": "Peanut butter",
+    "group": "fat",
+    "calories": 598.0,
+    "protein": 22.21,
+    "fat": 51.36,
+    "carbs": 22.31,
+    "max_grams": 40,
+    "step": 1,
+    "ndb": "16098",
+    "tags": "peanut peanuts butter nut nuts арахис арахисовая орех орехи",
+    "aliases": [
+      "peanut butter"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "PEANUT BUTTER,SMOOTH STYLE,W/ SALT"
+  },
+  "cheddar": {
+    "name": "Сыр чеддер",
+    "name_en": "Cheddar cheese",
+    "group": "fat",
+    "calories": 404.0,
+    "protein": 22.87,
+    "fat": 33.31,
+    "carbs": 3.09,
+    "max_grams": 60,
+    "step": 1,
+    "ndb": "01009",
+    "tags": "cheddar cheese milk dairy lactose чеддер сыр молоко молочные лактоза",
+    "aliases": [
+      "cheddar cheese",
+      "cheddar"
+    ],
+    "addition": true,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "CHEESE,CHEDDAR"
+  },
+  "raw_chicken": {
+    "name": "Куриная грудка, сырая",
+    "name_en": "Raw chicken breast",
+    "group": "protein",
+    "calories": 120.0,
+    "protein": 22.5,
+    "fat": 2.62,
+    "carbs": 0.0,
+    "max_grams": 200,
+    "step": 5,
+    "ndb": "05062",
+    "tags": "chicken poultry meat курица курицы курицей мясо птица",
+    "aliases": [
+      "chicken breast",
+      "skinless chicken breast",
+      "boneless skinless chicken breasts"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "CHICKEN,BROILER OR FRYERS,BRST,SKINLESS,BNLESS,MEAT ONLY,RAW"
+  },
+  "raw_rice": {
+    "name": "Рис длиннозёрный, сухой",
+    "name_en": "Dry long-grain rice",
+    "group": "carbs",
+    "calories": 365.0,
+    "protein": 7.13,
+    "fat": 0.66,
+    "carbs": 79.95,
+    "max_grams": 150,
+    "step": 5,
+    "ndb": "20044",
+    "tags": "rice рис риса рисом",
+    "aliases": [
+      "long-grain rice",
+      "uncooked rice",
+      "white rice"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "RICE,WHITE,LONG-GRAIN,REG,RAW,ENR"
+  },
+  "flour": {
+    "name": "Мука пшеничная",
+    "name_en": "All-purpose wheat flour",
+    "group": "carbs",
+    "calories": 364.0,
+    "protein": 10.33,
+    "fat": 0.98,
+    "carbs": 76.31,
+    "max_grams": 100,
+    "step": 5,
+    "ndb": "20081",
+    "tags": "flour wheat gluten мука пшеница глютен",
+    "aliases": [
+      "all-purpose flour",
+      "flour",
+      "wheat flour"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "WHEAT FLR,WHITE,ALL-PURPOSE,ENR,BLEACHED"
+  },
+  "sugar": {
+    "name": "Сахар",
+    "name_en": "Granulated sugar",
+    "group": "carbs",
+    "calories": 387.0,
+    "protein": 0.0,
+    "fat": 0.0,
+    "carbs": 99.98,
+    "max_grams": 40,
+    "step": 5,
+    "ndb": "19335",
+    "tags": "sugar sugars сахар",
+    "aliases": [
+      "sugar",
+      "granulated sugar"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "SUGARS,GRANULATED"
+  },
+  "milk": {
+    "name": "Молоко, 2%",
+    "name_en": "Milk, 2% fat",
+    "group": "protein",
+    "calories": 50.0,
+    "protein": 3.3,
+    "fat": 1.98,
+    "carbs": 4.8,
+    "max_grams": 300,
+    "step": 5,
+    "ndb": "01079",
+    "tags": "milk dairy lactose молоко молочные лактоза",
+    "aliases": [
+      "milk",
+      "2% milk"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "MILK,RED FAT,FLUID,2% MILKFAT,W/ ADDED VIT A & VITAMIN D"
+  },
+  "raw_egg": {
+    "name": "Яйцо сырое",
+    "name_en": "Raw egg",
+    "group": "protein",
+    "calories": 143.0,
+    "protein": 12.56,
+    "fat": 9.51,
+    "carbs": 0.72,
+    "max_grams": 150,
+    "step": 5,
+    "ndb": "01123",
+    "tags": "egg eggs яйцо яйца яиц",
+    "aliases": [
+      "eggs",
+      "egg"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "EGG,WHL,RAW,FRSH"
+  },
+  "butter": {
+    "name": "Масло сливочное",
+    "name_en": "Butter",
+    "group": "fat",
+    "calories": 717.0,
+    "protein": 0.85,
+    "fat": 81.11,
+    "carbs": 0.06,
+    "max_grams": 30,
+    "step": 1,
+    "ndb": "01001",
+    "tags": "butter milk dairy lactose масло сливочное молоко молочные лактоза",
+    "aliases": [
+      "butter",
+      "salted butter"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "BUTTER,WITH SALT"
+  },
+  "mushroom": {
+    "name": "Шампиньоны сырые",
+    "name_en": "Raw white mushrooms",
+    "group": "protein",
+    "calories": 22.0,
+    "protein": 3.09,
+    "fat": 0.34,
+    "carbs": 3.26,
+    "max_grams": 300,
+    "step": 5,
+    "ndb": "11260",
+    "tags": "mushroom mushrooms грибы гриб шампиньоны",
+    "aliases": [
+      "fresh mushrooms",
+      "mushrooms",
+      "white mushrooms"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "MUSHROOMS,WHITE,RAW"
+  },
+  "onion": {
+    "name": "Лук репчатый",
+    "name_en": "Raw onion",
+    "group": "carbs",
+    "calories": 40.0,
+    "protein": 1.1,
+    "fat": 0.1,
+    "carbs": 9.34,
+    "max_grams": 200,
+    "step": 5,
+    "ndb": "11282",
+    "tags": "onion onions лук",
+    "aliases": [
+      "onion",
+      "onions"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "ONIONS,RAW"
+  },
+  "broccoli": {
+    "name": "Брокколи сырая",
+    "name_en": "Raw broccoli",
+    "group": "carbs",
+    "calories": 34.0,
+    "protein": 2.82,
+    "fat": 0.37,
+    "carbs": 6.64,
+    "max_grams": 300,
+    "step": 5,
+    "ndb": "11090",
+    "tags": "broccoli брокколи",
+    "aliases": [
+      "broccoli"
+    ],
+    "addition": false,
+    "source": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+    "source_description": "BROCCOLI,RAW"
+  }
+}
